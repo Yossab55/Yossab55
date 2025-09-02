@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Clothe Management Project<br>🌱 I’m currently learning Node.js, MongoDB, MySQL
+🔭 I’m currently working on Expense managment Project<br>🌱 I’m currently learning Node.js, MongoDB, MySQL
 
 
 ## 🌐 Socials:
